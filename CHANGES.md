@@ -1,5 +1,5 @@
-# Changes in 1.12.2
+# Changes in 1.12.3
 
 in this release:
 
-- visual improvements
+- improve options page
